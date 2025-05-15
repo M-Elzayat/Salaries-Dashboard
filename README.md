@@ -98,12 +98,15 @@ Count of Employees by Year
 
 Breakdown: Benefits, Overtime Pay, Other Pay
 
-📂 Folder Structure
-salaries-dashboard/
-├── data/                  # Raw and cleaned datasets
-├── python-analysis/       # Scripts and data exploration notebooks
+## 📂 Folder Structure
+
+```
+hotel-booking-dashboard/
+├── data/                  # Raw and cleaned dataset
+├── python-analysis/       # EDA scripts and charts
 ├── dashboard/             # Power BI (.pbix) file
 └── README.md              # Project documentation
+```
 🔍 Dataset
 The dataset includes employee salary information (base pay, total pay, benefits, etc.) and job titles. Data was cleaned and standardized before dashboard development.
 
