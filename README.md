@@ -107,6 +107,7 @@ salaries-dashboard/
 🔍 Dataset
 The dataset includes employee salary information (base pay, total pay, benefits, etc.) and job titles. Data was cleaned and standardized before dashboard development.
 
-📬 Author
-Mahmoud Mohamed Fawzy Elzayat
-🔗 LinkedIn
+## 📬 Author
+
+**Mahmoud Mohamed Fawzy Elzayat**  
+[🔗 LinkedIn](https://www.linkedin.com/in/mahmoud-elzayat-data-analysis)
