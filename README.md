@@ -100,3 +100,9 @@ Employee salary dataset (Base Pay, Total Pay, Job Titles, Benefits, etc.). Clean
 
 **Mahmoud Mohamed Fawzy Elzayat**  
 [🔗 LinkedIn](https://www.linkedin.com/in/mahmoud-elzayat-data-analysis)
+
+## License
+
+This project is licensed under the **Creative Commons BY-NC-ND 4.0**.  
+You may not use this project for commercial purposes or modify it.  
+[View full license](https://creativecommons.org/licenses/by-nc-nd/4.0/)
